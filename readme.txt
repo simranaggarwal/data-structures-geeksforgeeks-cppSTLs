@@ -9,7 +9,7 @@ InorderStack:	Inorder traversal of binary tree without recursion
 AncestorOfNode:	Find ancestors of a node in binary tree
 TreeFromInPost:	Construct tree from given pre order and inorder traversal
 VertSumBinTree:	Vertical sum in a given binary tree
-SumTree:		Convert a given tree to its Sum Tree
+SumTree:	Convert a given tree to its Sum Tree
 BinFromInorder:	Construct Special Binary Tree from given Inorder traversal
 
 
