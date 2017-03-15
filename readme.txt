@@ -12,6 +12,7 @@ VertSumBinTree:	Vertical sum in a given binary tree
 SumTree:	Convert a given tree to its Sum Tree
 BinFromInorder:	Construct Special Binary Tree from given Inorder traversal
 BinFromPre:	Construct a special tree from given preorder traversal
+LevelOrdTrav:	Level order traversal 
 
 License
  This project is licensed under the  GNU GENERAL PUBLIC LICENSE - see the LICENSE.txt file for details
